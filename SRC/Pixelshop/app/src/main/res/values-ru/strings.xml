@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="my_projects">Мои проекты</string>
+    <string name="title">Название</string>
+    <string name="delete_text">Удалить</string>
+    <string name="share_text">Поделиться</string>
+    <string name="rename_text">Изменить</string>
+    <string name="save_text">Сохранить</string>
+    <string name="template_empty">Отсутствует</string>
+    <string name="size">Размер</string>
+    <string name="template_add_menu">Шаблон</string>
+    <string name="create_btn">Создать</string>
+    <string name="title_exception">Название проекта не может быть пустым.</string>
+    <string name="hint_title_project">Введите название проекта</string>
+    <string name="tap_add_surface">Нажмите чтобы создать новый проект</string>
+    <string name="template_creation">Создать из шаблона</string>
+    <string name="custom_creation">Создать пустой проект</string>
+    <string name="scaling_text">Масштабирование</string>
+    <string name="generating">СОЗДАНИЕ</string>
+    <string name="exit_text">Выйти</string>
+    <string name="position_text">Позиция</string>
+    <string name="speed_text">Скорость</string>
+    <string name="algorithm_text">Алгоритм:</string>
+    <string name="loading_text">Загрузка</string>
+</resources>

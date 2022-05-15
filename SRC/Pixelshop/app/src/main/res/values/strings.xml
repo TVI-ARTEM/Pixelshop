@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">Pixelshop</string>
+    <string name="app_name_panel" translatable="false">pixelshop</string>
+    <string name="my_projects">My arts</string>
+    <string name="title">Title</string>
+    <string name="delete_text">Delete</string>
+    <string name="share_text">Share</string>
+    <string name="rename_text">Rename</string>
+    <string name="save_text">Save</string>
+    <string name="template_empty">Empty</string>
+    <string name="size">Size</string>
+    <string name="template_add_menu">Template</string>
+    <string name="create_btn">Create</string>
+    <string name="title_exception">The name of project can not be empty.</string>
+    <string name="hint_title_project">Enter project title</string>
+    <string name="tap_add_surface">Tap to create new project</string>
+    <string name="hex_name" translatable="false">HEX:</string>
+    <string name="hex_placeholder" translatable="false">RRGGBB</string>
+    <string name="template_creation">Create from template</string>
+    <string name="custom_creation">Create empty project</string>
+    <string name="scaling_text">Scaling</string>
+    <string name="generating">GENERATING</string>
+    <string name="exit_text">Exit</string>
+    <string name="position_text">Position</string>
+    <string name="speed_text">Speed</string>
+    <string name="algorithm_text">Algorithm:</string>
+    <string name="loading_text">Loading</string>
+</resources>
